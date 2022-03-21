@@ -1,4 +1,3 @@
-# This is a basic workflow to help you get started with Actions
  - name: Skynet Deploy
   uses: SkynetLabs/deploy-to-skynet-action@v2.1.1
         with:
