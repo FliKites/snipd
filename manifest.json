@@ -18,11 +18,11 @@
     }
   ],
   "orientation": "portrait",
-  "name": "Uniswap",
+  "name": "LOFiZE",
   "description": "LOFiZE - Lo-Fi Study Music",
   "iconPath": "./images/256x256_App_Icon_Pink.svg",
   "short_name": "LOFiZE",
   "start_url": ".",
   "theme_color": "#00000",
-  "skylink": "GADH4JCvVBSUsHeQHmwMecNsSIOYmyDXJfqbx8OEXUguwQ"
+  "skylink": "AQCV16j2c62FMotFVJUNkLUq5Wy0GBz8kSEXSFnyYReEdQ"
 }
