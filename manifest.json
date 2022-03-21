@@ -1,7 +1,7 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "https://lofize/",
+  "homepage_url": "lofize/",
   "providedBy": { "name": "Klouted", "url": "https://klouted.com" },
   "icons": [
     {
