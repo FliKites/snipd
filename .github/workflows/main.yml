@@ -22,7 +22,7 @@ jobs:
         run: yarn build
 
       - name: Skynet Deploy
-  uses: SkynetLabs/deploy-to-skynet-action@v2.1.1
+         uses: SkynetLabs/deploy-to-skynet-action@v2.1.1
         with:
           upload-dir: public
           github-token: ${{ secrets.GITHUB_TOKEN }}
