@@ -18,5 +18,6 @@ jobs:
         uses: SkynetLabs/deploy-to-skynet-action@v2.1.1
         with:
           upload-dir: ./
+          try-files: index.html 192.png 256.svg 512.png
           github-token: ${{ secrets.GITHUB_TOKEN }}
           registry-seed: ${{ secrets.REGISTRY_SEED || '' }}
