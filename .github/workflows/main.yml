@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
  name: Deploy to Skynet
-        uses: SkynetLabs/deploy-to-skynet-action@v2
+      -  uses: SkynetLabs/deploy-to-skynet-action@v2
         with:
           upload-dir: public
           github-token: ${{ secrets.GITHUB_TOKEN }}
