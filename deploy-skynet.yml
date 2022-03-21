@@ -1,0 +1,2 @@
+- name: Skynet Deploy
+  uses: SkynetLabs/deploy-to-skynet-action@v2.1.1
