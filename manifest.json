@@ -1,7 +1,7 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "lofize/",
+  "homepage_url": "snipd/",
   "providedBy": { "name": "Klouted", "url": "https://klouted.com" },
   "icons": [
     {
@@ -18,11 +18,11 @@
     }
   ],
   "orientation": "portrait",
-  "name": "LOFiZE",
-  "description": "Music to free your mind.",
+  "name": "SNIPD",
+  "description": "Screenshot API for Handshake & Ethereum Websites.",
   "iconPath": "./256.svg",
-  "short_name": "LOFiZE",
+  "short_name": "SNIPD",
   "start_url": ".",
   "theme_color": "#000000",
-  "skylink": "AQCV16j2c62FMotFVJUNkLUq5Wy0GBz8kSEXSFnyYReEdQ"
+  "skylink": ""
 }
