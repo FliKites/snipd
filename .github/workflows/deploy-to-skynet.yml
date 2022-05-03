@@ -1,4 +1,4 @@
-name: Deploy to Skyne
+name: Deploy to Skynet
 
 on:
   push:
